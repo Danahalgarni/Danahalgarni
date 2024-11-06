@@ -14,7 +14,4 @@ Here’s a bit about me:
 
 Thanks for stopping by! 🌟
 
----
-
-This README will automatically appear on your GitHub profile since it’s set as your profile README repository. Feel free to personalize it further!
 
