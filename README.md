@@ -12,6 +12,5 @@ Here’s a bit about me:
 - LinkedIn: [Danah Algarni](https://www.linkedin.com/in/danahalgarni)
 - Email: [Danahalgarni@outlook.com](mailto:Danahalgarni@outlook.com)
 
-Thanks for stopping by! 🌟
 
 
