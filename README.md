@@ -1,6 +1,6 @@
 # Hi there, I'm Danah Algarni!
 
-Welcome to my GitHub profile! I'm Danah Algarni, an Artificial Intelligence graduate passionate about data science, AI, and interior design. I’m currently exploring various industries and working on diverse projects, ranging from predictive analytics to garden design.
+Welcome to my GitHub profile! I'm Danah Algarni, an Artificial Intelligence graduate passionate about data science, and AI. I’m currently exploring various industries and working on diverse projects, ranging from predictive analytics to garden design.
 
 Here’s a bit about me:
 
